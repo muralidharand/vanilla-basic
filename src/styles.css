@@ -53,3 +53,8 @@ header {
 .cta a:hover {
     background-color: #0056b3;
 }
+section{  
+border:1px solid pink;  
+padding:15px;  
+margin:10px;  
+}  
