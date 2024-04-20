@@ -1,5 +1,5 @@
 // Replace the launch date with your desired launch date and time
-const launchDate = new Date("2024-02-01T12:00:00").getTime();
+const launchDate = new Date("2025-02-01T12:00:00").getTime();
 
 function updateCountdown() {
   const now = new Date().getTime();
